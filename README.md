@@ -490,19 +490,18 @@ body {
 ## OUTPUT:
 
 ### Home Page:
-
-![output](./images/Homepage.PNG)
+![output](./images/Homepage.png)
 
 ### Product:
-![output](./images/Products.PNG)
+![output](./images/Products.png)
 
 ### People:
 
-![output](./images/People.PNG)
+![output](./images/People.png)
 
 ### Contact Us:
 
-![output](./images/Contactus.PNG)
+![output](./images/Contactus.png)
 
 ## Result:
 
